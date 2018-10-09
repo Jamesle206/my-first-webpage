@@ -1,4 +1,4 @@
-# _my-first-webpage_
+# _My First Webpage_
 
 #### _Simple Webpage for Epicodus, 10.8.2018_
 
@@ -10,10 +10,10 @@ _My first webpage at Epicodus, it's purpose is to begin basic coding practices, 
 
 ## Setup/Installation Requirements
 
-*_Clone this repository_
-*_Open a simple HTTP server in the top level of the cloned directory. For a mac, run the following command in your terminal:_   
-*_python -m SimpleHTTPServer_
-*_Then open your web browser of choice to localhost:8000_
+_Clone this repository _
+_Open a simple HTTP server in the top level of the cloned directory. For a mac, run the following command in your terminal: _   
+_python -m SimpleHTTPServer _
+_Then open your web browser of choice to localhost:8000 _
 
 ## Support and contact details
 
@@ -25,4 +25,4 @@ _HTML._
 
 ### License
 
-*_MIT_
+_MIT_
