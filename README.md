@@ -21,8 +21,10 @@ _Contact James Le - Jamesle206@gmail.com or Kaveh Saleminejad - Lcaveh@gmail.com
 
 ## Technologies Used
 
-_HTML._
+_HTML_
 
 ### License
 
-_MIT_
+*This software is licensed under the MIT license.*
+
+Copyright (c) 2018 **_James Le, Kaveh Saleminejad_** 
